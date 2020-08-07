@@ -11,7 +11,7 @@
 	  "netDue": 1832.90,
 	  "amountPaid": 1832.90,
 	  "paymentStatus": "Paid",
-	  "dateIssued": "09/01/2020",
+	  "dateIssued": "09/01/2020"
     },
 	{
       "id": 2,
@@ -24,7 +24,7 @@
 	  "netDue": 1832.90,
 	  "amountPaid": 1832.90,
 	  "paymentStatus": "Paid",
-	  "dateIssued": "09/01/2020",
+	  "dateIssued": "09/01/2020"
     },
 	{
       "id": 3,
@@ -37,7 +37,7 @@
 	  "netDue": 1832.90,
 	  "amountPaid": 1832.90,
 	  "paymentStatus": "Paid",
-	  "dateIssued": "09/01/2020",
+	  "dateIssued": "09/01/2020"
     }
   ],
   "profile": {
