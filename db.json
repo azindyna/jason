@@ -4,19 +4,16 @@
       "id": 1,
       "title": "hello"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
-{
-  "posts": [
-    {
+	{
       "id": 2,
-      "title": "hello2
+      "title": "konnichiha"
+    }
+	{
+      "id": 3,
+      "title": "namaste"
     }
   ],
   "profile": {
-    "name": "typicode2"
+    "name": "typicode"
   }
 }
