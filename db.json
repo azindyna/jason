@@ -9,3 +9,14 @@
     "name": "typicode"
   }
 }
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "hello2
+    }
+  ],
+  "profile": {
+    "name": "typicode2"
+  }
+}
